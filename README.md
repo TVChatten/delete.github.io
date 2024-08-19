@@ -39,3 +39,9 @@ The patient scheduling system, which includes penalty calculations, illustrates 
 The MongoDB database integration, used in conjunction with Python Django, highlights my understanding of modern database management and security practices. This artifact showcases my ability to implement a scalable and flexible database solution while ensuring compliance with HIPAA regulations for protecting sensitive patient information.
 
 Together, these artifacts provide a holistic view of my technical talents and abilities, demonstrating my readiness to contribute effectively to the computer science field and advance in my career. They reflect a well-rounded skill set that includes software engineering, algorithm design, database management, and a strong commitment to data security and compliance.
+
+
+#Code Review:
+https://youtu.be/0HIEavdgiZg
+
+
